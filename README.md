@@ -35,7 +35,7 @@ Les missions réalisées dans ce projet sont les suivantes :
     *Formule :* `(Temps planifié – Temps d’arrêt) / Temps planifié`
   - **Nombre de pannes par machine** : identification des équipements les plus critiques
 - Création du dashboard Power BI intégrant l’ensemble des KPI et des visualisations.4
-- Automatisation des donnees dans power BI car 
+- Automatisation des donnees dans power BI  
 
 ---
 
