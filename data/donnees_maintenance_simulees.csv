@@ -299,5 +299,3 @@ DatePanne,MachineID,TypePanne,DureeArret,DateIntervention,Technicien,Cause
 2026-01-15,MACH_6,Erreur logiciel,6.83,2026-01-15 19:03:39.901267,Technicien C,Surcharge machine
 2026-01-15,MACH_6,Défaillance capteur,9.82,2026-01-16 03:34:41.227117,Technicien A,Erreur humaine
 2026-01-16,MACH_7,Panne électrique,10.24,2026-01-16 15:35:57.962343,Technicien D,Défaut composant
-2026-01-17,MACH_3,Défaillance capteur,8.89,2026-01-17 14:27:13.994810,Technicien D,Mauvaise calibration
-2026-01-18,MACH_4,Défaillance capteur,9.99,2026-01-18 10:00:13.994810,Technicien B,Mauvaise calibration

@@ -11,9 +11,9 @@ Les missions réalisées dans ce projet sont les suivantes :
 - Génération d’un fichier CSV simulant des données industrielles de maintenance
 - Préparation et nettoyage des données selon le principe ETL
 - Définition des indicateurs de performance (KPI)
-- Modélisation des données dans Power BI
-- Création d’un dashboard de maintenance interactif
-- Documentation complète du projet
+- Modélisation des données dans Power BI Desktop 
+- Créer d’un dashboard de maintenance interactif
+- Automatisation
 
 ---
 
@@ -34,7 +34,8 @@ Les missions réalisées dans ce projet sont les suivantes :
   - **Taux de disponibilité** : proportion du temps où la machine est réellement disponible  
     *Formule :* `(Temps planifié – Temps d’arrêt) / Temps planifié`
   - **Nombre de pannes par machine** : identification des équipements les plus critiques
-- Création du dashboard Power BI intégrant l’ensemble des KPI et des visualisations.
+- Création du dashboard Power BI intégrant l’ensemble des KPI et des visualisations.4
+- Automatisation des donnees dans power BI car 
 
 ---
 
